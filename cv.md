@@ -1,9 +1,7 @@
 ### **Yury klopau**
 
 **City:** Minsk;
-
 **mobile Number:** +375296117390;
-
 **mail:** yurymerkhoff@gmail.com;
 
 [**github**](https://github.com/YuriyKlopau)
